@@ -1,6 +1,6 @@
 body
 {
-    color: yellow;
+    color: yellowgreen;
     text-align: left;
     font-family: "Arial";
     font-size: 16px;
@@ -20,4 +20,22 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+#cabecera
+{   
+    background: blue;
+    box-shadow: 0px 2px 20px 0px black(0,0,0,0,5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+}
+
+#cabecera #tagline
+{
+    margin: 0 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+
 }
